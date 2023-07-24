@@ -88,7 +88,7 @@
     "specificationTag": "Türk Mutfağı, Sebze",
     "specificationMaterial": "2 adet patlıcan, 300 gr kıyma, 1 adet soğan (doğranmış), 2 adet domates (doğranmış), 3 yemek kaşığı sıvı yağ, 1 çay kaşığı biber salçası, 1 çay kaşığı domates salçası, tuz, karabiber",
     "specificationFabrication": "1. Patlıcanları alacalı olarak soyun ve tuzlu suda bekletin.\n2. Kıymayı bir tavada kavurun.\n3. Soğanları ekleyin ve yumuşayana kadar kavurun.\n4. Domatesleri ekleyin ve suyunu çekene kadar pişirin.\n5. Biber salçası, domates salçası, tuz ve karabiberle tatlandırın.\n6. Patlıcanları suda yıkayın ve kurulayın.\n7. Patlıcanların ortasını açın ve kıymalı harçla doldurun.\n8. Patlıcanları sıvı yağda kızartın.\n9. Karnıyarık sıcak olarak servis edin ve yanında pilav veya yoğurtla servis yapın.",
-    "specificationImage": "https://i.ytimg.com/vi/yOMZGKFMmuo/maxresdefault.jpg",
+    "specificationImage": "https://i.ytimg.com/vi/yOMZGKFMmuo/maxresdefault.jpg"
   },
   {
     "specificationName": "Köfte",
@@ -117,5 +117,47 @@
     "specificationMaterial": "2 adet patlıcan, 2 adet domates (doğranmış), 1 adet yeşil biber (doğranmış), 1 adet kırmızı biber (doğranmış), 1 adet soğan (doğranmış), 3 yemek kaşığı zeytinyağı, 1 yemek kaşığı nar ekşisi, tuz, karabiber, maydanoz (süslemek için)",
     "specificationFabrication": "1. Patlıcanları alacalı olarak soyun ve közleyin.\n2. Közlenmiş patlıcanların kabuklarını soyun ve doğrayın.\n3. Doğranmış domates, yeşil biber, kırmızı biber ve soğanı patlıcanlara ekleyin.\n4. Zeytinyağı ve nar ekşisini ekleyin ve karıştırın.\n5. Tuz ve karabiberle tatlandırın.\n6. Patlıcan salatasını servis tabağına alın ve üzerine doğranmış maydanoz serpiştirerek servis yapın.",
     "specificationImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/09/koz-patlican-ve-biber-salatasi-tarifi.jpg"
+  },
+  {
+    "specificationName": "Kıymalı Patates",
+    "specificationTag": "Türk Mutfağı, Et",
+    "specificationMaterial": "500 gr dana kıyma, 4 adet patates (doğranmış), 1 adet soğan (doğranmış), 3 yemek kaşığı sıvı yağ, 2 yemek kaşığı domates salçası, 1 su bardağı sıcak su, tuz, karabiber",
+    "specificationFabrication": "1. Patatesleri soyun ve küp şeklinde doğrayın.\n2. Bir tavada sıvı yağı ısıtın.\n3. Doğranmış soğanları ekleyin ve yumuşayana kadar kavurun.\n4. Kıymayı ekleyin ve kavurun.\n5. Domates salçasını ekleyin ve kokusu çıkana kadar kavurun.\n6. Patatesleri ekleyin ve birkaç dakika karıştırarak pişirin.\n7. Sıcak suyu ekleyin, tuz ve karabiberle tatlandırın.\n8. Patatesler yumuşayana kadar pişirin.\n9. Kıymalı patatesi sıcak olarak servis edin ve yanında pilav veya yoğurtla servis yapın.",
+    "specificationImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/01/kiymali-patates-oturtma-tarifi.jpg"
+  },
+  {
+    "specificationName": "Yoğurtlu Patates Salatası",
+    "specificationTag": "Türk Mutfağı, Salata",
+    "specificationMaterial": "4 adet patates (haşlanmış ve doğranmış), 1 su bardağı yoğurt, 2 diş sarımsak (ezilmiş), 2 yemek kaşığı mayonez, 1 yemek kaşığı zeytinyağı, 1 çay kaşığı pul biber, tuz, karabiber, maydanoz (süslemek için)",
+    "specificationFabrication": "1. Haşlanmış patatesleri doğrayın ve bir kaba alın.\n2. Yoğurdu, ezilmiş sarımsağı, mayonezi ve zeytinyağını ekleyin.\n3. Tuz ve karabiberle tatlandırın ve karıştırın.\n4. Yoğurtlu patates salatasını servis tabağına alın ve üzerine pul biber serpiştirerek servis yapın.\n5. İsteğe bağlı olarak doğranmış maydanozla süsleyebilirsiniz.",
+    "specificationImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2014/06/yogurt-soslu-patates-salatasi-yemekcom.jpg"
+  },
+  {
+    "specificationName": "Mercimek Köftesi",
+    "specificationTag": "Türk Mutfağı, Salata",
+    "specificationMaterial": "1 su bardağı kırmızı mercimek, 1 su bardağı bulgur, 1 adet kuru soğan (rendelenmiş), 1 çay bardağı zeytinyağı, 1 yemek kaşığı nar ekşisi, yarım demet ince kıyılmış maydanoz, yarım demet ince kıyılmış taze nane, 1 yemek kaşığı salça, 1 tatlı kaşığı kimyon, 1 tatlı kaşığı pul biber, tuz",
+    "specificationFabrication": "1. Mercimeği yıkayıp süzün ve bir tencereye koyun. Üzerini geçecek kadar su ekleyin ve yumuşayana kadar pişirin.\n2. Pişen mercimeği süzün ve soğuması için bir kenara bırakın.\n3. Bulguru bir kaba alın, üzerine sıcak su ekleyin ve 10-15 dakika bekletin. Daha sonra suyunu süzün.\n4. Soğanı rendeleyin ve zeytinyağı ile birlikte kavurun.\n5. Pişmiş mercimeği ve kavrulmuş soğanı büyük bir kaba alın. İçine bulguru, nar ekşisini, ince kıyılmış maydanozu, taze naneyi, salçayı, kimyonu, pul biberi ve tuzu ekleyin.\n6. Ellerinizle malzemeleri iyice yoğurun ve köfte şekli verin.\n7. Mercimek köftesini buzdolabında dinlendirin ve soğuk olarak servis yapın.",
+    "specificationImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/01/patateslimercimekkoftesi-yeni-one-cikan.jpg"
+  },
+  {
+    "specificationName": "Tavuklu Nohut Yemeği",
+    "specificationTag": "Türk Mutfağı, Et Yemekleri",
+    "specificationMaterial": "500 gr tavuk göğsü (küp doğranmış), 1 su bardağı haşlanmış nohut, 1 büyük soğan (yemeklik doğranmış), 2 yemek kaşığı domates salçası, 2 yemek kaşığı sıvı yağ, 1 çay kaşığı karabiber, 1 çay kaşığı kimyon, 1 çay kaşığı kırmızı pul biber, 1 çay kaşığı toz biber, tuz",
+    "specificationFabrication": "1. Tavuk göğsünü küp doğrayın. Soğanı yemeklik doğrayın.\n2. Bir tencerede sıvı yağı ısıtın. Doğranmış soğanları ekleyip kavurun.\n3. Tavukları ekleyip suyunu salıp çekene kadar kavurmaya devam edin.\n4. Domates salçasını ekleyip kokusu çıkana kadar kavurmaya devam edin.\n5. Haşlanmış nohutu ve baharatları ekleyin, karıştırın.\n6. Tencereye su ekleyin, kaynamaya başladıktan sonra ocağın altını kısın ve tavuklar yumuşayana kadar pişirin.\n7. Tavuklu nohut yemeğini sıcak olarak servis edin ve yanında pilav veya ekmekle servis yapın.",
+    "specificationImage": "https://i4.hurimg.com/i/hurriyet/75/1200x675/5b0e5f695379fe10d44b9b4f.jpg"
+  },
+  {
+    "specificationName": "Fırında Patates Yemeği",
+    "specificationTag": "Türk Mutfağı, Sebze",
+    "specificationMaterial": "4 adet orta boy patates, 1 büyük soğan (yemeklik doğranmış), 2 yemek kaşığı zeytinyağı, 1 çay kaşığı kekik, 1 çay kaşığı pul biber, tuz, karabiber",
+    "specificationFabrication": "1. Patatesleri soyun ve yıkayın. Ortadan ikiye bölün ve dilimleyin.\n2. Bir fırın tepsisine zeytinyağı ekleyin ve patates dilimlerini üzerine yayın.\n3. Yemeklik doğranmış soğanları patateslerin üzerine serpiştirin.\n4. Kekik, pul biber, tuz ve karabiberi ekleyin, karıştırın.\n5. Patatesleri önceden ısıtılmış 200 derece fırında pişirin.\n6. Fırında patates yemeğini sıcak olarak servis edin ve yanında yoğurt veya salata ile servis yapın.",
+    "specificationImage": "https://i.ytimg.com/vi/nTx48NABCj4/maxresdefault.jpg"
+  },
+  {
+    "specificationName": "Kuru Fasulye Yemeği",
+    "specificationTag": "Türk Mutfağı, Sebze",
+    "specificationMaterial": "1 su bardağı kuru fasulye, 1 büyük soğan (yemeklik doğranmış), 2 yemek kaşığı sıvı yağ, 1 yemek kaşığı domates salçası, 1 çay kaşığı tatlı biber salçası, 1 çay kaşığı kimyon, 1 çay kaşığı karabiber, tuz",
+    "specificationFabrication": "1. Kuru fasulyeyi bir gece önceden suya koyun ve ıslatın.\n2. Ertesi gün kuru fasulyeleri süzün.\n3. Bir tencerede sıvı yağı ısıtın. Doğranmış soğanları ekleyip kavurun.\n4. Domates salçasını, biber salçasını ve baharatları ekleyin, karıştırın.\n5. Süzülmüş kuru fasulyeleri tencereye ekleyin ve karıştırın.\n6. Üzerini geçecek kadar su ekleyin, kaynamaya başladıktan sonra ocağın altını kısın.\n7. Kuru fasulyeler yumuşayana kadar pişirin.\n8. Kuru fasulye yemeğini sıcak olarak servis edin ve yanında pilav veya turşu ile servis yapın.",
+    "specificationImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/01/etli-kuru-fasulye-yemegi-vildan.jpg"
   }
 ]
