@@ -89,5 +89,33 @@
     "specificationMaterial": "2 adet patlıcan, 300 gr kıyma, 1 adet soğan (doğranmış), 2 adet domates (doğranmış), 3 yemek kaşığı sıvı yağ, 1 çay kaşığı biber salçası, 1 çay kaşığı domates salçası, tuz, karabiber",
     "specificationFabrication": "1. Patlıcanları alacalı olarak soyun ve tuzlu suda bekletin.\n2. Kıymayı bir tavada kavurun.\n3. Soğanları ekleyin ve yumuşayana kadar kavurun.\n4. Domatesleri ekleyin ve suyunu çekene kadar pişirin.\n5. Biber salçası, domates salçası, tuz ve karabiberle tatlandırın.\n6. Patlıcanları suda yıkayın ve kurulayın.\n7. Patlıcanların ortasını açın ve kıymalı harçla doldurun.\n8. Patlıcanları sıvı yağda kızartın.\n9. Karnıyarık sıcak olarak servis edin ve yanında pilav veya yoğurtla servis yapın.",
     "specificationImage": "https://i.ytimg.com/vi/yOMZGKFMmuo/maxresdefault.jpg",
+  },
+  {
+    "specificationName": "Köfte",
+    "specificationTag": "Türk Mutfağı, Et",
+    "specificationMaterial": "500 gr dana kıyma, 1 adet soğan (rendelenmiş), 1 diş sarımsak (ezilmiş), 1 dilim ekmek içi (ıslatılmış ve sıkılmış), 1 adet yumurta, 1 yemek kaşığı galeta unu, 1 çay kaşığı kimyon, 1 çay kaşığı pul biber, tuz, karabiber",
+    "specificationFabrication": "1. Kıymayı bir yoğurma kabına alın.\n2. Rendelenmiş soğan, ezilmiş sarımsak, ıslatılmış ve sıkılmış ekmek içi, yumurta, galeta unu, kimyon, pul biber, tuz ve karabiberi ekleyin.\n3. Malzemeleri iyice yoğurun.\n4. Köfte harcından ceviz büyüklüğünde parçalar alın ve yuvarlayarak şekil verin.\n5. Köfteleri yağsız bir tavada veya ızgarada pişirin.\n6. Köfteleri servis tabağına alın ve isteğe bağlı olarak üzerine domates ve biber dilimleri ekleyerek servis yapın.",
+    "specificationImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2016/12/akcaabat-koftesi-one-cikan.jpg"
+  },
+  {
+    "specificationName": "Kabak Mücver",
+    "specificationTag": "Türk Mutfağı, Sebze",
+    "specificationMaterial": "2 adet kabak (rendelenmiş), 1 adet soğan (rendelenmiş), 2 adet yumurta, 1 su bardağı un, 1 demet dereotu (doğranmış), tuz, karabiber, sıvı yağ",
+    "specificationFabrication": "1. Rendelenmiş kabakları tuzlayın ve suyunu sıkın.\n2. Rendelenmiş soğanı kabaklara ekleyin.\n3. Yumurtaları ekleyin ve karıştırın.\n4. Unu ekleyin ve karışımı iyice yoğurun.\n5. Doğranmış dereotu, tuz ve karabiberle tatlandırın.\n6. Karışımdan küçük parçalar alın ve yuvarlayarak şekil verin.\n7. Mücverleri sıvı yağda kızartın.\n8. Kızarmış kabak mücverleri kağıt havlu serili bir tabağa alın.\n9. Kabak mücverleri sıcak olarak servis edin ve yanında yoğurtla servis yapın.",
+    "specificationImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2022/06/kabak-mucver-aysegul.jpg"
+  },
+  {
+    "specificationName": "Tavuklu Pilav",
+    "specificationTag": "Türk Mutfağı, Pilav",
+    "specificationMaterial": "1 su bardağı pirinç, 2 su bardağı tavuk suyu, 1 adet tavuk göğsü (haşlanmış ve didiklenmiş), 1 yemek kaşığı tereyağı, 1 adet kuru soğan (doğranmış), 1 diş sarımsak (ezilmiş), 1 çay kaşığı zerdeçal, tuz",
+    "specificationFabrication": "1. Pirinci yıkayın ve suyu süzün.\n2. Tereyağını bir tencerede eritin.\n3. Doğranmış soğanları ekleyin ve yumuşayana kadar kavurun.\n4. Ezilmiş sarımsağı ekleyin ve koku verene kadar soteleyin.\n5. Pirinci ekleyin ve birkaç dakika karıştırarak kavurun.\n6. Tavuk suyunu ve zerdeçalı ekleyin, tuzunu ayarlayın.\n7. Kaynamaya başladıktan sonra ocağın altını kısın ve pilav suyunu çekene kadar pişirin.\n8. Haşlanmış ve didiklenmiş tavuk göğsünü ekleyin ve pilavı demlenmeye bırakın.\n9. Tavuklu pilavı sıcak olarak servis edin ve yanında salata ile servis yapın.",
+    "specificationImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2014/12/tavuklu-pilav-one-cikan-yeni.jpg"
+  },
+  {
+    "specificationName": "Közlenmiş Patlıcan Salatası",
+    "specificationTag": "Türk Mutfağı, Salata",
+    "specificationMaterial": "2 adet patlıcan, 2 adet domates (doğranmış), 1 adet yeşil biber (doğranmış), 1 adet kırmızı biber (doğranmış), 1 adet soğan (doğranmış), 3 yemek kaşığı zeytinyağı, 1 yemek kaşığı nar ekşisi, tuz, karabiber, maydanoz (süslemek için)",
+    "specificationFabrication": "1. Patlıcanları alacalı olarak soyun ve közleyin.\n2. Közlenmiş patlıcanların kabuklarını soyun ve doğrayın.\n3. Doğranmış domates, yeşil biber, kırmızı biber ve soğanı patlıcanlara ekleyin.\n4. Zeytinyağı ve nar ekşisini ekleyin ve karıştırın.\n5. Tuz ve karabiberle tatlandırın.\n6. Patlıcan salatasını servis tabağına alın ve üzerine doğranmış maydanoz serpiştirerek servis yapın.",
+    "specificationImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/09/koz-patlican-ve-biber-salatasi-tarifi.jpg"
   }
 ]
