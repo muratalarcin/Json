@@ -320,5 +320,26 @@
     "specificationMaterial": "500 gram hamsi\nUn\nMısır unu\nTuz\nSıvı yağ",
     "specificationFabrication": "1. Hamsileri yıkayın, temizleyin ve süzün.\n2. Hamsileri un ve mısır unu karışımına bulayın.\n3. Tavada sıvı yağı kızdırın, hamsileri kızartın.\n4. Kızaran hamsileri kağıt havlu üzerine alarak fazla yağını çektirin.\n5. Tuz ekleyerek servis yapın.",
     "specificationImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2016/08/hamsi-tava-yeni-one-cikan.jpg"
+  },
+  {
+    "specificationName": "Sushi",
+    "specificationTag": "Japon Mutfağı, Deniz Ürünleri",
+    "specificationMaterial": "Sushi pirinci\nSu\nSushi sirkesi\nTuz\nNori yosunu\nBalık veya deniz ürünleri",
+    "specificationFabrication": "1. Sushi pirincini yıkayın ve pişirin.\n2. Sıcak pirinci bir kaba alın, sushi sirkesi ve tuz ekleyerek karıştırın.\n3. Nori yosununu temiz bir zeminde düzgünce yayın.\n4. Üzerine ince bir tabaka pirinç yayın ve balık veya deniz ürünleri ekleyin.\n5. Rulo şeklinde sarın ve keserek dilimleyin.\n6. Soya sosu, wasabi ve zencefil ile servis yapın.",
+    "specificationImage": "BURAYA RESİM URL'SİNİ EKLEYİN"
+  },
+  {
+    "specificationName": "Paella",
+    "specificationTag": "İspanyol Mutfağı, Pilavlar",
+    "specificationMaterial": "2 su bardağı paella pirinci\nTavuk butları\nDeniz ürünleri (karides, kalamar, midye vb.)\nSarımsak\nSofra yağı\nBiberiye\nToz safran\nTuz",
+    "specificationFabrication": "1. Tavuk butlarını yağda kızartın.\n2. Ayrı bir tavada deniz ürünlerini kızartın.\n3. Büyük bir tencerede sofra yağını ısıtın, ince doğranmış sarımsakları kavurun.\n4. Paella pirincini ekleyin ve kavurun.\n5. Biberiye, toz safran ve tuz ekleyin.\n6. Üzerine sıcak tavuk suyu ekleyin ve karıştırarak pişirin.\n7. Tavuk butları ve deniz ürünlerini ekleyerek pişirin.\n8. Üzeri kızarana kadar fırında tutun ve servis yapın.",
+    "specificationImage": "BURAYA RESİM URL'SİNİ EKLEYİN"
+  },
+  {
+    "specificationName": "Chicken Tikka Masala",
+    "specificationTag": "Hint Mutfağı, Tandoor Yemekleri",
+    "specificationMaterial": "Tavuk göğsü\nYoğurt\nZencefil\nSarımsak\nTandoori baharat karışımı\nDomates sosu\nKrema\nTuz",
+    "specificationFabrication": "1. Tavuk göğsünü tandoori baharat karışımı, yoğurt, zencefil ve sarımsakla marine edin.\n2. Tavayı ısıtıp tavukları pişirin.\n3. Ayrı bir tencerede domates sosu ve krema kaynatın.\n4. Pişen tavukları sosla harmanlayarak karıştırın.\n5. Tuz ekleyin ve servis yapın.\n6. Pilav veya naan ekmeği ile servis edebilirsiniz.",
+    "specificationImage": "BURAYA RESİM URL'SİNİ EKLEYİN"
   }
 ]
