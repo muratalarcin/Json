@@ -32,7 +32,7 @@
     "specificationTag": "Türk Mutfağı, Omlet",
     "specificationMaterial": "3 adet yumurta, 1 su bardağı rendelenmiş kaşar peyniri, 1 yemek kaşığı tereyağı, tuz, karabiber",
     "specificationFabrication": "1. Yumurtaları bir kasede çırpın.\n2. Rendelenmiş kaşar peyniri, tuz ve karabiberi ekleyip karıştırın.\n3. Bir tavada tereyağını eritin.\n4. Yumurtalı karışımı tavaya dökün.\n5. Alt tarafı pişene kadar kısık ateşte bekletin.\n6. Omletin üzerini bir tabak veya kapağın yardımıyla çevirin.\n7. Diğer tarafı da pişene kadar bekletin.\n8. Peynirli omlet sıcak olarak servis edin.",
-    "specificationImage": "https://online.selimiyemuhallebicisi.com/files/2021/12/beyaz-peynirli-omlet.jpg"
+    "specificationImage": "https://cheefmoses.com/Polar/Icerik/Urun/443782f4c-4d88-4ed0-8a70-d6b9516b458dpeynirli-omlet.jpg"
   },
   {
     "specificationName": "Tavuklu Pilav",
@@ -194,5 +194,187 @@
     "specificationMaterial": "400 gr spagetti makarna, 500 gr dana kıyma, 1 adet soğan (yemeklik doğranmış), 2 diş sarımsak (ezilmiş), 1 adet havuç (rendelenmiş), 2 yemek kaşığı sıvı yağ, 2 yemek kaşığı domates salçası, 1 su bardağı rendelenmiş domates, 1 çay bardağı su, 1 çay bardağı süt, 1 çay kaşığı kırmızı biber, 1 çay kaşığı kekik, tuz, karabiber, rendelenmiş parmesan peyniri",
     "specificationFabrication": "1. Spagetti makarnayı tuzlu kaynar suda haşlayın ve süzün.\n2. Bir tavada sıvı yağı ısıtın. Doğranmış soğanları ekleyip kavurun.\n3. Ezilmiş sarımsakları ekleyin ve kavurmaya devam edin.\n4. Rendelenmiş havucu ekleyin ve kavurun.\n5. Dana kıymayı ekleyin ve kavurun.\n6. Domates salçasını ekleyin ve karıştırın.\n7. Rendelenmiş domatesi ve suyu ekleyin, kaynamaya başladıktan sonra ocağın altını kısın.\n8. Sütü ekleyin ve karıştırın.\n9. Kırmızı biber, kekik, tuz ve karabiberi ekleyin, karıştırın.\n10. Haşlanmış spagetti makarnayı sosun üzerine ekleyin ve karıştırın.\n11. Servis yaparken rendelenmiş parmesan peyniri ekleyin.",
     "specificationImage": "https://i4.hurimg.com/i/hurriyet/75/1200x675/5c6553150f25442e40d9eb4c.jpg"
+  },
+  {
+    "specificationName": "Margherita Pizza",
+    "specificationTag": "İtalyan Mutfağı, Pizza",
+    "specificationMaterial": "Hamur için:\n- 300 gr pizza unu\n- 1 çay bardağı ılık su\n- 1 tatlı kaşığı kuru maya\n- 1 çay kaşığı tuz\n\nSos için:\n- 1 su bardağı rendelenmiş domates\n- 2 yemek kaşığı zeytinyağı\n- 1 diş sarımsak (ezilmiş)\n- Tuz, karabiber\n\nÜzeri için:\n- 150 gr mozzarella peyniri\n- 1/2 çay bardağı taze fesleğen yaprakları\n- 2 yemek kaşığı zeytinyağı",
+    "specificationFabrication": "1. Hamur için mayayı ılık suyla eritin. Unu ve tuzu ekleyerek yoğurun, hamuru örtün ve yarım saat mayalandırın.\n2. Sos için rendelenmiş domates, zeytinyağı, ezilmiş sarımsak, tuz ve karabiberi karıştırın.\n3. Mayalanan hamuru istediğiniz kalınlıkta açın. Sosu hamurun üzerine sürün.\n4. Mozzarella peynirini hamurun üzerine serpin.\n5. 220 derece önceden ısıtılmış fırında yaklaşık 15-20 dakika kadar pişirin.\n6. Fırından çıkan pizzanın üzerine taze fesleğen yaprakları ve zeytinyağı gezdirerek servis yapın.",
+    "specificationImage": "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-margherita-pizza-1611491820.jpg"
+  },
+  {
+    "specificationName": "Hamburger",
+    "specificationTag": "Amerikan Mutfağı, Fast Food",
+    "specificationMaterial": "200 gr dana kıyma, hamburger ekmeği, marul, domates, soğan, cheddar peyniri, turşu, ketchup, mayonez",
+    "specificationFabrication": "1. Dana kıymayı şekillendirerek köfteler hazırlayın ve tavada veya ızgarada pişirin.\n2. Hamburger ekmeğini tostlayın.\n3. Ekmeğin altına marul, köfte, cheddar peyniri ve turşu sıralayın.\n4. Üzerine domates, soğan, ketchup ve mayonezi ekleyerek üst ekmeği kapatın.\n5. Sıcak servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Sushi",
+    "specificationTag": "Japon Mutfağı, Deniz Ürünleri",
+    "specificationMaterial": "Sushi pirinci, suşi sirkesi, nori yosunu, somon veya ton balığı, salatalık, avokado, wasabi, soya sosu",
+    "specificationFabrication": "1. Sushi pirincini pişirin ve sirkeyle karıştırın.\n2. Nori yosununu bir suşi matı üzerine yayın.\n3. Üzerine pirinçi yayın ve üzerine ince dilimlenmiş somon, ton balığı, salatalık ve avokado ekleyin.\n4. Rulo şeklinde sararak dilimlere ayırın.\n5. Sushileri tabağa alın, wasabi ve soya sosuyla servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Sushi",
+    "specificationTag": "Japon Mutfağı, Deniz Ürünleri",
+    "specificationMaterial": "Sushi pirinci, suşi sirkesi, nori yosunu, somon veya ton balığı, salatalık, avokado, wasabi, soya sosu",
+    "specificationFabrication": "1. Sushi pirincini pişirin ve sirkeyle karıştırın.\n2. Nori yosununu bir suşi matı üzerine yayın.\n3. Üzerine pirinçi yayın ve üzerine ince dilimlenmiş somon, ton balığı, salatalık ve avokado ekleyin.\n4. Rulo şeklinde sararak dilimlere ayırın.\n5. Sushileri tabağa alın, wasabi ve soya sosuyla servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Peking Ördeği",
+    "specificationTag": "Çin Mutfağı, Ördek Yemeği",
+    "specificationMaterial": "Ördek, Peking ördeği sosu, pirinç ekmeği, sebzeler",
+    "specificationFabrication": "1. Ördeği temizleyin, marine edin ve fırınlayın.\n2. Peking ördeği sosunu sürün ve dilimleyin.\n3. Pirinç ekmeği veya ince pirinç bisküvileriyle sararak servis yapın.\n4. Sebzelerle yanında sunun.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Croissant",
+    "specificationTag": "Fransız Mutfağı, Hamur İşi",
+    "specificationMaterial": "Un, tereyağı, maya, süt, tuz, şeker",
+    "specificationFabrication": "1. Maya, süt, tuz ve şekeri karıştırarak mayalandırın.\n2. Un ve tereyağını ekleyip hamur yapın.\n3. Hamuru katlayarak gevrek bir dokuya getirin.\n4. Şeritler kesin, şekil verin ve fırınlayın.\n5. Altın rengini alana kadar pişirin, soğuduktan sonra servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Kimchi",
+    "specificationTag": "Kore Mutfağı, Fermente Sebzeler",
+    "specificationMaterial": "Lahana, turp, sarımsak, zencefil, kırmızı biber, balık sosu",
+    "specificationFabrication": "1. Lahana ve turpları tuzlayın ve suyunu çekene kadar bekletin.\n2. Baharatları ve malzemeleri karıştırarak karışımı hazırlayın.\n3. Lahana ve turpları karışımla ovun.\n4. Hava geçirmez kapta fermente etmek için bekletin.\n5. Fermente olduktan sonra servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Tandoori Tavuk",
+    "specificationTag": "Hint Mutfağı, Izgara Yemekler",
+    "specificationMaterial": "Tavuk butları, yoğurt, limon suyu, zencefil, sarımsak, tandoori baharat karışımı",
+    "specificationFabrication": "1. Yoğurt, limon suyu, zencefil, sarımsak ve tandoori baharatlarını karıştırın.\n2. Tavuk butlarını marine edin ve birkaç saat bekletin.\n3. Izgarada veya fırında tavukları pişirin.\n4. Sıcak servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Paella",
+    "specificationTag": "İspanyol Mutfağı, Deniz Ürünleri",
+    "specificationMaterial": "Pirinç, deniz ürünleri (karides, midye, kalamar), tavuk, domates, bezelye, safran",
+    "specificationFabrication": "1. Tavada soğan, biber ve sosisi kavurun.\n2. Pirinci ekleyip suyunu çekene kadar kavurun.\n3. Domates, tavuk, deniz ürünleri ve safran ekleyin.\n4. Pişirme işlemi tamamlandığında paellayı servis edin.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Sacher Torte",
+    "specificationTag": "Avusturya Mutfağı, Tatlılar",
+    "specificationMaterial": "Çikolatalı kek tabanı, kayısı marmeladı, çikolata glazürü",
+    "specificationFabrication": "1. Çikolatalı kek tabanını ikiye kesin.\n2. Kek tabanları arasına kayısı marmeladı sürün.\n3. Üzerini çikolata glazürü ile kaplayın.\n4. Soğuduktan sonra dilimleyerek servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Hamsi Tava",
+    "specificationTag": "Karadeniz Mutfağı, Deniz Ürünleri",
+    "specificationMaterial": "Taze hamsi, mısır unu, tuz, sıvı yağ",
+    "specificationFabrication": "1. Taze hamsileri temizleyin ve yıkayın.\n2. Hamsileri mısır unu ve tuzla harmanlayın.\n3. Sıvı yağda kızartın.\n4. Sıcak servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Kuymak",
+    "specificationTag": "Karadeniz Mutfağı, Peynirli Yemekler",
+    "specificationMaterial": "Mısır unu, tereyağı, peynir, su",
+    "specificationFabrication": "1. Mısır ununu suyla karıştırarak pişirin.\n2. Üzerine tereyağı ve rendelenmiş peynir ekleyin.\n3. Karışımı karıştırarak eritin ve sıcak servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Karalahana Sarması",
+    "specificationTag": "Karadeniz Mutfağı, Dolmalar",
+    "specificationMaterial": "Karalahana yaprağı, pirinç, kıyma, soğan, biber salçası, baharatlar",
+    "specificationFabrication": "1. Karalahana yapraklarını haşlayın ve suyunu süzün.\n2. İç harcı için pirinci, kıymayı, doğranmış soğanı ve baharatları karıştırın.\n3. Karalahana yapraklarını açarak iç harçla sarın.\n4. Sarmaları tencereye dizin ve su ekleyerek pişirin.\n5. Sıcak servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Laz Böreği",
+    "specificationTag": "Karadeniz Mutfağı, Tatlılar",
+    "specificationMaterial": "Yufka, ceviz içi, şeker, su, tereyağı",
+    "specificationFabrication": "1. Yufkaları hazırlayın ve aralarına ceviz içi serpin.\n2. Yufkaları katlayarak üst üste yerleştirin.\n3. Şekerli suyu yufkaların üzerine gezdirin.\n4. Üzerine erimiş tereyağı sürün.\n5. Fırında üzeri kızarana kadar pişirin ve soğuduktan sonra dilimleyerek servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Fındıklı Pide",
+    "specificationTag": "Karadeniz Mutfağı, Pideler",
+    "specificationMaterial": "Hamur, fındık, şeker, tereyağı",
+    "specificationFabrication": "1. Hamurunuzu hazırlayın ve açın.\n2. Üzerine dövülmüş fındık ve şeker serpin.\n3. Hamuru katlayarak şekil verin.\n4. Üzerine tereyağı sürün ve fırınlayın.\n5. Soğuduktan sonra servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Mısır Ekmeği (Tereyağlı Mısır Ekmeği)",
+    "specificationTag": "Karadeniz Mutfağı, Ekmekler",
+    "specificationMaterial": "Mısır unu, tereyağı, su, tuz",
+    "specificationFabrication": "1. Mısır ununu su ve tuzla karıştırın.\n2. Hamuru yoğurun ve tereyağı ile yağlayın.\n3. Hamuru şekil vererek pişirin.\n4. Sıcak servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Sultan Kebabı",
+    "specificationTag": "Osmanlı Mutfağı, Kebaplar",
+    "specificationMaterial": "Kuzu eti, tuz, biber, soğan, tereyağı, nar ekşisi, sumak",
+    "specificationFabrication": "1. Kuzu etini doğrayın ve marine edin.\n2. Etleri şişlere dizerek mangalda veya fırında pişirin.\n3. Pişen etlere tereyağı, nar ekşisi ve sumak gezdirin.\n4. Sıcak servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Hünkar Beğendi",
+    "specificationTag": "Osmanlı Mutfağı, Sebzeli Yemekler",
+    "specificationMaterial": "Kuzu eti, patlıcan, süt, un, tereyağı, kaşar peyniri",
+    "specificationFabrication": "1. Kuzu etini pişirin ve didikleyin.\n2. Patlıcanları közleyin ve kabuklarını soyun.\n3. Patlıcanları ezerek püre haline getirin.\n4. Süt ve unla pişirilen beşamel sosu püreye ekleyin.\n5. Üzerine rendelenmiş kaşar peyniri ekleyerek fırınlayın.\n6. Üzerine kuzu eti yerleştirin ve sıcak servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "İskender Kebabı",
+    "specificationTag": "Osmanlı Mutfağı, Kebaplar",
+    "specificationMaterial": "Döner eti, lavaş, tereyağı, domates sosu, yoğurt",
+    "specificationFabrication": "1. Döner etini ızgarada veya tavada ısıtın.\n2. Lavaşı küçük parçalara bölün.\n3. Tereyağını eritin ve lavaşların üzerine gezdirin.\n4. Üzerine döner etini yerleştirin.\n5. Domates sosu ve yoğurt ile servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Mahmudiye",
+    "specificationTag": "Osmanlı Mutfağı, Tatlılar",
+    "specificationMaterial": "Tavuk göğsü, badem, şeker, un, süt, tereyağı",
+    "specificationFabrication": "1. Tavuk göğsünü haşlayın ve didikleyin.\n2. Bademleri kavurun.\n3. Un, süt ve şekerle pişirdiğiniz muhallebiye tavuk etini ekleyin.\n4. Bademleri de ekleyerek karıştırın.\n5. Üzerine tereyağı sürün ve fırınlayın.\n6. Soğuduktan sonra servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Çılbır",
+    "specificationTag": "Osmanlı Mutfağı, Kahvaltı",
+    "specificationMaterial": "Yoğurt, yumurta, tereyağı, pul biber, tuz",
+    "specificationFabrication": "1. Yoğurdu tabağa alın ve düzeltin.\n2. Üzerine haşlanmış yumurtaları yerleştirin.\n3. Tereyağını eritin ve pul biberle tatlandırın.\n4. Pul biberli tereyağını yumurtaların üzerine gezdirin.\n5. Tuz ekleyerek sıcak servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Şehriyeli Pilav",
+    "specificationTag": "Osmanlı Mutfağı, Pilavlar",
+    "specificationMaterial": "Pilavlık pirinç, şehriye, tereyağı, tavuk suyu, tuz",
+    "specificationFabrication": "1. Pilavlık pirinci yıkayın ve süzün.\n2. Tereyağını eritin ve şehriyeleri kavurun.\n3. Pirinci ekleyerek kavurun.\n4. Tavuk suyu ve tuz ekleyerek pişirin.\n5. Dinlendirdikten sonra servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Kabak Tatlısı",
+    "specificationTag": "Osmanlı Mutfağı, Tatlılar",
+    "specificationMaterial": "Kabak, şeker, su, tarçın, ceviz içi",
+    "specificationFabrication": "1. Kabakları rendeleyin ve suyu çıkana kadar bekletin.\n2. Suyunu süzüp şeker ve suyla kaynatın.\n3. Kabakları ekleyerek pişirin.\n4. Tarçın ve ceviz içi ekleyin.\n5. Soğuduktan sonra servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Yaprak Sarma",
+    "specificationTag": "Osmanlı Mutfağı, Dolmalar",
+    "specificationMaterial": "Üzüm yaprağı, pirinç, kıyma, soğan, baharatlar",
+    "specificationFabrication": "1. Üzüm yapraklarını haşlayın ve suyunu süzün.\n2. İç harcı için pirinci, kıymayı, doğranmış soğanı ve baharatları karıştırın.\n3. Yaprakları açarak iç harçla sarmaya başlayın.\n4. Sarmaları tencereye dizin ve su ekleyerek pişirin.\n5. Sıcak servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Lokum",
+    "specificationTag": "Osmanlı Mutfağı, Tatlılar",
+    "specificationMaterial": "Nişasta, şeker, su, limon suyu, gıda boyası, fıstık",
+    "specificationFabrication": "1. Nişasta, su ve şekerle şerbet hazırlayın.\n2. Şerbet kaynamaya başlayınca limon suyu ekleyin.\n3. Karışımı pişirirken gıda boyası ekleyebilirsiniz.\n4. Karışımı kalıba dökün ve fıstıkla süsleyin.\n5. Soğuyunca keserek servis yapın.",
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Şekerpare",
+    "specificationTag": "Osmanlı Mutfağı, Tatlılar",
+    "specificationMaterial": "Un, irmik, tereyağı, yoğurt, şeker, kabartma tozu",
+    "specificationFabrication": "1. Hamur malzemeleriyle hamur yapın ve şekil verin.\n2. Fırında pişirin.\n3. Pişen hamurları şerbetle tatlandırın.\n4. Şerbeti çeken şekerpareleri servis yapın.",
+    "specificationImage": ""
   }
 ]
