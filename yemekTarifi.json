@@ -326,20 +326,181 @@
     "specificationTag": "Japon Mutfağı, Deniz Ürünleri",
     "specificationMaterial": "Sushi pirinci\nSu\nSushi sirkesi\nTuz\nNori yosunu\nBalık veya deniz ürünleri",
     "specificationFabrication": "1. Sushi pirincini yıkayın ve pişirin.\n2. Sıcak pirinci bir kaba alın, sushi sirkesi ve tuz ekleyerek karıştırın.\n3. Nori yosununu temiz bir zeminde düzgünce yayın.\n4. Üzerine ince bir tabaka pirinç yayın ve balık veya deniz ürünleri ekleyin.\n5. Rulo şeklinde sarın ve keserek dilimleyin.\n6. Soya sosu, wasabi ve zencefil ile servis yapın.",
-    "specificationImage": "BURAYA RESİM URL'SİNİ EKLEYİN"
+    "specificationImage": "https://cdn.yemek.com/mnresize/940/940/uploads/2020/04/sushi-tarifi.jpg"
   },
   {
     "specificationName": "Paella",
     "specificationTag": "İspanyol Mutfağı, Pilavlar",
     "specificationMaterial": "2 su bardağı paella pirinci\nTavuk butları\nDeniz ürünleri (karides, kalamar, midye vb.)\nSarımsak\nSofra yağı\nBiberiye\nToz safran\nTuz",
     "specificationFabrication": "1. Tavuk butlarını yağda kızartın.\n2. Ayrı bir tavada deniz ürünlerini kızartın.\n3. Büyük bir tencerede sofra yağını ısıtın, ince doğranmış sarımsakları kavurun.\n4. Paella pirincini ekleyin ve kavurun.\n5. Biberiye, toz safran ve tuz ekleyin.\n6. Üzerine sıcak tavuk suyu ekleyin ve karıştırarak pişirin.\n7. Tavuk butları ve deniz ürünlerini ekleyerek pişirin.\n8. Üzeri kızarana kadar fırında tutun ve servis yapın.",
-    "specificationImage": "BURAYA RESİM URL'SİNİ EKLEYİN"
+    "specificationImage": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/05/paella-guncelleme-sunum.jpg"
   },
   {
     "specificationName": "Chicken Tikka Masala",
     "specificationTag": "Hint Mutfağı, Tandoor Yemekleri",
     "specificationMaterial": "Tavuk göğsü\nYoğurt\nZencefil\nSarımsak\nTandoori baharat karışımı\nDomates sosu\nKrema\nTuz",
     "specificationFabrication": "1. Tavuk göğsünü tandoori baharat karışımı, yoğurt, zencefil ve sarımsakla marine edin.\n2. Tavayı ısıtıp tavukları pişirin.\n3. Ayrı bir tencerede domates sosu ve krema kaynatın.\n4. Pişen tavukları sosla harmanlayarak karıştırın.\n5. Tuz ekleyin ve servis yapın.\n6. Pilav veya naan ekmeği ile servis edebilirsiniz.",
-    "specificationImage": "BURAYA RESİM URL'SİNİ EKLEYİN"
+    "specificationImage": "https://s23209.pcdn.co/wp-content/uploads/2019/02/Easy-Chicken-Tikka-MasalaIMG_8253.jpg"
+  },
+  {
+    "specificationName": "Pad Thai",
+    "specificationTag": "Tayland Mutfağı, Noodle Yemekleri",
+    "specificationMaterial": "Köri sosu\nTavuk veya karides\nTaze pirinç erişteleri\nSoğan\nYumurta\nSusam yağı\nKöri yaprağı",
+    "specificationFabrication": "1. Tavayı ısıtın, susam yağını ekleyin, soğanı ve tavuk veya karidesi kavurun.\n2. Yumurtayı ekleyip karıştırarak pişirin.\n3. Taze pirinç eriştelerini ekleyin, köri yaprağı ve köri sosuyla karıştırın.\n4. Servis tabağına alın, üzerine taze limon sıkarak servis yapın.",
+    "specificationImage": "https://www.recipetineats.com/wp-content/uploads/2020/01/Chicken-Pad-Thai_9-SQ.jpg"
+  },
+  {
+    "specificationName": "Tacos",
+    "specificationTag": "Meksika Mutfağı, Wrap Yemekleri",
+    "specificationMaterial": "Mısır veya buğday tortilla\nKırmızı fasulye\nTavuk veya dana eti\nGuacamole\nSalsa sos\nRendelenmiş peynir",
+    "specificationFabrication": "1. Tavada tavuk veya dana etini kavurun.\n2. Tortillaları ısıtın.\n3. Her bir tortillanın üzerine kırmızı fasulye, et, guacamole, salsa sos ve rendelenmiş peynir koyarak sarın.\n4. Sıcak olarak servis yapın.",
+    "specificationImage": "https://images-gmi-pmc.edge-generalmills.com/e59f255c-7498-4b84-9c9d-e578bf5d88fc.jpg"
+  },
+  {
+    "specificationName": "Ramen",
+    "specificationTag": "Japon Mutfağı, Çorba Yemekleri",
+    "specificationMaterial": "Ramen erişteleri\nTavuk suyu\nSoya sosu\nTon balığı\nSarımsak\nSebzeler (brokoli, havuç, mantar)",
+    "specificationFabrication": "1. Tavuk suyunu kaynatın, soya sosu ve ton balığı ekleyin.\n2. Erişteleri haşlayın, süzün ve servis tabağına alın.\n3. Sebzeleri soteleyin, ramen eriştelerinin üzerine koyun.\n4. Sıcak tavuk suyunu üzerine dökerek servis yapın.",
+    "specificationImage": "https://cdn.yemek.com/mncrop/940/625/uploads/2018/08/ramen-tarifi.jpg"
+   },
+  {
+    "specificationName": "Borscht",
+    "specificationTag": "Rus Mutfağı, Çorba Yemekleri",
+    "specificationMaterial": "Kırmızı pancar\nPatates\nHavuç\nSoğan\nSarımsak\nLimon suyu\nYoğurt\nDereotu",
+    "specificationFabrication": "1. Sebzeleri doğrayın ve tencerede kavurun.\n2. Sıcak su ekleyip sebzeler yumuşayana kadar pişirin.\n3. Tuz ve karabiber ekleyin, limon suyu ile tatlandırın.\n4. Servis tabağına alın, üzerine yoğurt ve ince doğranmış dereotu koyarak servis yapın.",
+    "specificationImage": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/892132B7-7B5A-413E-948E-BC501F4F2EE1/Derivates/9C81A99E-8D12-4017-A224-D0A001584920.jpg"
+  },
+  {
+    "specificationName": "Ratatouille",
+    "specificationTag": "Fransız Mutfağı, Sebzeli Yemekler",
+    "specificationMaterial": "Patlıcan\nKabak\nBiber\nDomates\nSoğan\nSarımsak\nKekik\nZeytinyağı",
+    "specificationFabrication": "1. Sebzeleri doğrayın ve tepsinin dibine dizin.\n2. Zeytinyağı, sarımsak ve kekik ile tatlandırın.\n3. Önceden ısıtılmış 180 derece fırında sebzeler yumuşayana kadar pişirin.\n4. Sıcak olarak servis yapın.",
+    "specificationImage": "https://i4.hurimg.com/i/hurriyet/75/750x422/618265d44e3fe01728982466.jpg"
+  },
+  {
+    "specificationName": "Goulash",
+    "specificationTag": "Macar Mutfağı, Et Yemekleri",
+    "specificationMaterial": "Dana eti\nSoğan\nPaprika\nDomates\nTuz, karabiber\nPatates",
+    "specificationFabrication": "1. Dana etini doğrayın ve tavada kavurun.\n2. Soğanı ekleyip kavurmaya devam edin.\n3. Doğranmış domates, tuz ve karabiber ekleyin.\n4. Üzerine su ilave edin, kaynamaya bırakın.\n5. Patatesleri ekleyin, kısık ateşte pişirin.\n6. Servis yaparken yanında ekmekle sunabilirsiniz.",
+    "specificationImage": "https://www.recipesfromeurope.com/wp-content/uploads/2021/01/german-goulash-recipe-beef-stew.jpg"
+  },
+  {
+    "specificationName": "Ceviche",
+    "specificationTag": "Peru Mutfağı, Deniz Ürünleri",
+    "specificationMaterial": "Balık filetosu\nLimon suyu\nSoğan\nMaydanoz\nSarımsak\nSıcak biber\nMısır",
+    "specificationFabrication": "1. Balık filetosunu doğrayarak limon suyuna koyun.\n2. Doğranmış soğan, maydanoz, sarımsak ve sıcak biber ekleyin.\n3. Mısır taneleriyle süsleyerek servis yapın.\n4. Lezzetlendirip tüketmek için tortilla cipsi veya ekmekle sunabilirsiniz.",
+    "specificationImage": "https://i.lezzet.com.tr/images-xxlarge-recipe/ceviche-1cb1ae3c-6411-46fe-922e-7eb6f1d6739d.jpg"
+  },
+  {
+    "specificationName": "Kung Pao Chicken",
+    "specificationTag": "Çin Mutfağı, Tavuk Yemekleri",
+    "specificationMaterial": "Tavuk göğsü\nKöri sosu\nSoya sosu\nFındık\nSarımsak\nZencefil\nKırmızı biber",
+    "specificationFabrication": "1. Tavuk göğsünü doğrayın ve tavada kızartın.\n2. Köri sosu, soya sosu, doğranmış sarımsak ve zencefil ekleyin.\n3. Fındık ve kırmızı biberi ekleyerek karıştırın.\n4. Sıcak servis yapın, yanında pilavla sunabilirsiniz.",
+    "specificationImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnkDh-W_65bXEn1bK1z-3cXMQzjeoiyHgDw&usqp=CAU"
+  },
+  {
+    "specificationName": "Poutine",
+    "specificationTag": "Kanada Mutfağı, Fast Food",
+    "specificationMaterial": "Patates kızartması\nTuzlu gravy sos\nCheddar peyniri",
+    "specificationFabrication": "1. Patates kızartmalarını tepsiye alın.\n2. Üzerine rendelenmiş cheddar peyniri ekleyin.\n3. Sıcak gravy sos dökerek servis yapın.\n4. Geleneksel haliyle ya da ekstra malzemelerle sunabilirsiniz.",
+    "specificationImage": "https://carlsbadcravings.com/wp-content/uploads/2020/12/Poutine-7-500x500.jpg"
+  },
+  {
+    "specificationName": "Miso Çorbası",
+    "specificationTag": "Japon Mutfağı, Çorba Yemekleri",
+    "specificationMaterial": "Miso ezmesi\nTofu\nSebzeler (spring onion, wakame vb.)\nDashi suyu\nNohut",
+    "specificationFabrication": "1. Dashi suyunu kaynatın.\n2. Tofu ve sebzeleri ekleyerek kaynamaya bırakın.\n3. Ayrı bir kapta miso ezmesini suyla karıştırarak çözün.\n4. Kaynayan çorbaya miso karışımını ekleyin ve karıştırın.\n5. Nohutları ekleyip ısıtın, servis yapın.",
+    "specificationImage": "https://cdn.yemek.com/mnresize/940/940/uploads/2020/04/kirmizi-miso-corbasi-editor.jpg"
+  },
+  {
+    "specificationName": "Feijoada",
+    "specificationTag": "Brezilya Mutfağı, Et Yemekleri",
+    "specificationMaterial": "Siyez fasulyesi\nDomuz eti\nSosis\nTavuk eti\nSoğan\nSarımsak\nPortakal kabuğu",
+    "specificationFabrication": "1. Fasulyeyi haşlayın.\n2. Ayrı tencerede soğan, sarımsak ve etleri kavurun.\n3. Haşlanmış fasulyeyi ekleyin.\n4. Portakal kabuğuyla tatlandırın ve pişirin.\n5. Yanında pirinçle veya farofa ile servis yapın.",
+    "specificationImage": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/bf0b6a9ffe1e83960ebf31ed8af6d05f/Derivates/eabadaf71c49ba2b4c70d7317518fa5225c6bc82.jpg"
+  },
+  {
+    "specificationName": "Baklava",
+    "specificationTag": "Türk Mutfağı, Tatlılar",
+    "specificationMaterial": "Yufka\nCeviz içi\nTereyağı\nŞerbet (su, şeker, limon suyu)",
+    "specificationFabrication": "1. Yufkaları serin, aralarına tereyağı sürün.\n2. Ceviz içi serpiştirin ve yufkaları katlayarak üst üste dizin.\n3. Kare dilimleri kesin ve tereyağı sürün.\n4. Önceden ısıtılmış 180 derece fırında üzeri kızarana kadar pişirin.\n5. Soğuyan baklavanın üzerine sıcak şerbeti dökün.\n6. Şerbeti çeken baklavayı dilimleyerek servis yapın.",
+    "specificationImage": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Baklava%281%29.png"
+  },
+  {
+    "specificationName": "Samosa",
+    "specificationTag": "Hint Mutfağı, İçli Yemekler",
+    "specificationMaterial": "Yufka\nPatates\nSoya sosu\nSarımsak\nZencefil\nMısır unu\nTuz",
+    "specificationFabrication": "1. Patatesleri haşlayın, soyup ezin.\n2. Tavada soya sosu, sarımsak ve zencefili kavurun.\n3. Patatesleri ekleyin ve karıştırın.\n4. Yufkaları üçgen şeklinde kesin.\n5. İç harcı yufkanın içine koyun ve mısır unuyla yapıştırın.\n6. Sıvı yağda kızartın, kağıt havlu üzerine alarak fazla yağını çektirin.\n7. Sıcak servis yapın, yanında chutney sos ile sunabilirsiniz.",
+    "specificationImage": "https://i.lezzet.com.tr/images-xxlarge/punjabi-samosa-bcf665ad-f2a8-4add-9303-2b15666e3172"
+  },
+  {
+    "specificationName": "Sushi Burrito",
+    "specificationTag": "Japon ve Meksika Harmanı, Deniz Ürünleri",
+    "specificationMaterial": "Nori yosunu\nSushi pirinci\nBalık veya deniz ürünleri\nSebzeler (avokado, salatalık, havuç vb.)\nSoya sosu\nWasabi\nZencefil",
+    "specificationFabrication": "1. Nori yosununu düz bir zemine yayın.\n2. Üzerine ince bir tabaka sushi pirinci yayın.\n3. Balık veya deniz ürünleri ile sebzeleri ekleyin.\n4. Rulo şeklinde sarın ve keserek dilimleyin.\n5. Soya sosu, wasabi ve zencefil ile servis yapın.",
+    "specificationImage": "https://www.yummymummykitchen.com/wp-content/uploads/2021/04/sushi-burrito-02-735x1103.jpg"
+  },
+  {
+    "specificationName": "Rendang",
+    "specificationTag": "Endonezya Mutfağı, Et Yemekleri",
+    "specificationMaterial": "Dana eti\nSarımsak\nSoğan\nZencefil\nKurutulmuş hindistancevizi\nKurutulmuş acı biber",
+    "specificationFabrication": "1. Dana etini doğrayarak kavurun.\n2. Sarımsak, soğan ve zencefili ekleyip kavurun.\n3. Hindistancevizi ve acı biber ekleyerek pişirin.\n4. Yavaş ateşte suyunu çekene kadar pişirin.\n5. Sıcak olarak servis yapın, yanında pirinç veya lontongla sunabilirsiniz.",
+    "specificationImage": "https://i.lezzet.com.tr/images-xxlarge-recipe/beef-rendang-0cf99663-c603-4617-b897-2917270edb31.jpg"
+  },
+  {
+    "specificationName": "Peking Duck",
+    "specificationTag": "Çin Mutfağı, Özel Yemekler",
+    "specificationMaterial": "Ördek\nSoya sosu\nBal\nZencefil\nSarımsak\nArpacık soğan\nMandalin kabuğu\nGöğüs eti ve ince pide",
+    "specificationFabrication": "1. Ördeği temizleyin ve marine edin.\n2. Özel fırınla pişirin, ince pideyle sararak servis tabağına alın.\n3. İnce dilimler halinde kesin, sarımsak, soya sosu ve bal ile tatlandırın.\n4. Göğüs etini pidede sararak sunabilirsiniz.\n5. Arpacık soğan, zencefil ve mandalin kabuğu ile yanında servis yapın.",
+    "specificationImage": "https://thewoksoflife.com/wp-content/uploads/2015/11/peking-duck-recipe-11-1.jpg"
+  },
+  {
+    "specificationName": "Bobotie",
+    "specificationTag": "Güney Afrika Mutfağı, Et Yemekleri",
+    "specificationMaterial": "Kıyma\nSoğan\nSarımsak\nBaharatlar (tarçın, zencefil, karanfil)\nSarımsak\nSarı üzüm\nBadem\nSüt\nYumurta\nKurutulmuş ekmek",
+    "specificationFabrication": "1. Kıymayı kavurun, soğanı ekleyin ve kavurun.\n2. Baharatları ve sarımsağı ekleyerek pişirin.\n3. Badem ve sarı üzümü karışıma ekleyin.\n4. Süt ve yumurtayı çırpıp karışıma ekleyin.\n5. Önceden ısıtılmış 180 derece fırında pişirin.\n6. Servis yaparken kurutulmuş ekmekle üstünü süsleyebilirsiniz.",
+    "specificationImage": "https://www.panningtheglobe.com/wp-content/uploads/2013/02/bobotie11web.jpg"
+  },
+  {
+    "specificationName": "Tortilla Española",
+    "specificationTag": "İspanyol Mutfağı, Omletler",
+    "specificationMaterial": "Patates\nSoğan\nYumurta\nZeytinyağı\nTuz\nKarabiber",
+    "specificationFabrication": "1. Patatesleri ve soğanı kızartın.\n2. Yumurtaları çırpın, tuz ve karabiber ekleyin.\n3. Patatesleri yumurtalara ekleyin ve karıştırın.\n4. Tavada altı kızarıncaya kadar pişirin, ters çevirerek üst tarafını pişirin.\n5. Dilimleyerek sıcak servis yapın, yanında salata ile sunabilirsiniz.",
+    "specificationImage": "https://cdn.elcocinerocasero.com/imagen/paso-receta/1000/2022-06-15-19-06-12/tortilla-de-patata-paso-5.webp"
+  },
+  {
+    "specificationName": "Chicken Adobo",
+    "specificationTag": "Filipin Mutfağı, Tavuk Yemekleri",
+    "specificationMaterial": "Tavuk butları\nSoya sosu\nSirke\nSarımsak\nYaprağınız\nKarabiber",
+    "specificationFabrication": "1. Tavuk butlarını tavada kızartın.\n2. Soya sosu, sirke, sarımsak ve yapraklar ekleyin.\n3. Karabiberle tatlandırın ve pişirin.\n4. Sıcak olarak servis yapın, yanında pirinçle sunabilirsiniz.",
+    "specificationImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlq8Bm4VQAQID66uWpcYwj2Is2YlxUKf4ZwA&usqp=CAU"
+  },
+  {
+    "specificationName": "Aloo Paratha",
+    "specificationTag": "Hint Mutfağı, Ekmek Yemekleri",
+    "specificationMaterial": "Un\nPatates\nSoğan\nYeşil biber\nBaharatlar (kimyon, köri, kırmızı biber vb.)",
+    "specificationFabrication": "1. Un ve suyu karıştırarak hamur hazırlayın.\n2. Patatesleri haşlayıp ezin, soğan ve biberle karıştırın.\n3. Hamuru açın, iç harç koyun ve katlayarak kapatın.\n4. Tavada kızartın, tereyağı sürerek servis yapın.\n5. Yanında yoğurt veya chutney sosuyla servis edebilirsiniz.",
+    "specificationImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIPLYcUX5kZsfOgG5S5EX8pkZo_qpi6vdDww&usqp=CAU"
+  },
+  {
+    "specificationName": "Chimichanga",
+    "specificationTag": "Meksika Mutfağı, Fast Food",
+    "specificationMaterial": "Tavuk veya kırmızı et\nFasulye\nPeynir\nBaharatlar (kimyon, kırmızı biber vb.)\nTortilla ekmeği",
+    "specificationFabrication": "1. Tavada tavuk veya kırmızı eti kızartın.\n2. Fasulye ve baharatları ekleyin, karıştırın.\n3. Tortilla ekmeğine iç harcı koyup sarın.\n4. Kızgın yağda kızartın, kağıt havlu üzerine alarak fazla yağını çektirin.\n5. Yanında salsa sosu ve guacamole ile servis yapabilirsiniz.",
+    "specificationImage": "https://cdn.yemek.com/mnresize/940/940/uploads/2020/10/chimichanga-tarifi.jpeg"
+  },
+  {
+    "specificationName": "Kangaroo Steak",
+    "specificationTag": "Avustralya Mutfağı, Et Yemekleri",
+    "specificationMaterial": "Kanguru eti\nZeytinyağı\nTuz\nKarabiber\nBaharatlar (kekik, biberiye vb.)",
+    "specificationFabrication": "1. Kanguru etini marine edin.\n2. Tavada zeytinyağı ile kızartın.\n3. Tuz, karabiber ve baharatlarla tatlandırın.\n4. Sıcak olarak servis yapın, yanında grill sebzeler ile sunabilirsiniz.",
+    "specificationImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBAWqE07irni8yV9If7JEh_2e65gv5izPSw&usqp=CAU"
+  },
+  {
+    "specificationName": "Sticky Toffee Pudding",
+    "specificationTag": "İngiliz Mutfağı, Tatlılar",
+    "specificationMaterial": "Kuru hurma\nUn\nYumurta\nTereyağı\nKahverengi şeker\nKrema\nVanilya özü",
+    "specificationFabrication": "1. Kuru hurmaları kaynar suda bekletip püre haline getirin.\n2. Hamur için un, yumurta, tereyağı ve kuru hurma püresini karıştırın.\n3. Kahverengi şeker ve krema ile karamel sosu hazırlayın.\n4. Kek hamurunu kalıplara dökün ve fırında pişirin.\n5. Üzerine karamel sosu dökerek servis yapın.\n6. Dondurma veya krema ile yanında sunabilirsiniz.",
+    "specificationImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRleIw8bZkFRT80CDt9UkFX5Q2Zl3EWVAY4Sw&usqp=CAU"
   }
 ]
