@@ -362,7 +362,7 @@
     "specificationMaterial": "Ramen erişteleri\nTavuk suyu\nSoya sosu\nTon balığı\nSarımsak\nSebzeler (brokoli, havuç, mantar)",
     "specificationFabrication": "1. Tavuk suyunu kaynatın, soya sosu ve ton balığı ekleyin.\n2. Erişteleri haşlayın, süzün ve servis tabağına alın.\n3. Sebzeleri soteleyin, ramen eriştelerinin üzerine koyun.\n4. Sıcak tavuk suyunu üzerine dökerek servis yapın.",
     "specificationImage": "https://cdn.yemek.com/mncrop/940/625/uploads/2018/08/ramen-tarifi.jpg"
-   },
+  },
   {
     "specificationName": "Borscht",
     "specificationTag": "Rus Mutfağı, Çorba Yemekleri",
@@ -502,5 +502,289 @@
     "specificationMaterial": "Kuru hurma\nUn\nYumurta\nTereyağı\nKahverengi şeker\nKrema\nVanilya özü",
     "specificationFabrication": "1. Kuru hurmaları kaynar suda bekletip püre haline getirin.\n2. Hamur için un, yumurta, tereyağı ve kuru hurma püresini karıştırın.\n3. Kahverengi şeker ve krema ile karamel sosu hazırlayın.\n4. Kek hamurunu kalıplara dökün ve fırında pişirin.\n5. Üzerine karamel sosu dökerek servis yapın.\n6. Dondurma veya krema ile yanında sunabilirsiniz.",
     "specificationImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRleIw8bZkFRT80CDt9UkFX5Q2Zl3EWVAY4Sw&usqp=CAU"
+  },
+  {
+    "specificationName": "Szechuan Beef",
+    "specificationTag": "Çin Mutfağı, Dana Eti, Acı Sos",
+    "specificationMaterial": "300g dana eti dilimleri, soya sosu, susam yağı, taze zencefil, acı biber sosu, sebzeler",
+    "specificationFabrication": "1. Dana eti dilimlerini marine edin.\n2. Sote yapmak için zencefil ve sebzeleri ekleyin.\n3. Acı biber sosu ve soya sosu ile tatlandırın ve servis edin.",
+    "specificationImage": "Resim URL (isteğe bağlı)"
+  },
+  {
+    "specificationName": "Ünlü Restoran Fırında Tavuk",
+    "specificationTag": "Türk Mutfağı, Tavuk",
+    "specificationMaterial": "4 adet tavuk but, 2 yemek kaşığı zeytinyağı, 4 diş sarımsak (ezilmiş), 2 çay kaşığı kekik, 2 çay kaşığı kırmızı toz biber, tuz",
+    "specificationFabrication": [
+      "1. Tavuk butlarını yıkayın ve kağıt havluyla kurulayın.",
+      "2. Geniş bir kasede zeytinyağı, ezilmiş sarımsak, kekik, kırmızı toz biber ve bir tutam tuzu iyice karıştırın.",
+      "3. Hazırladığınız karışımı tavuk butlarına dikkatlice sürün ve butları buzdolabında en az 1 saat boyunca dinlendirin. Mümkünse, buzdolabında daha uzun süre marine etmek lezzeti artırabilir.",
+      "4. Fırını önceden 200 dereceye (fanlı fırın kullanıyorsanız 180 dereceye) ayarlayın ve ısıtmaya başlayın.",
+      "5. Tavuk butlarını marine edildikten sonra fırın tepsisine yerleştirin. Eğer isterseniz tavukları bir ızgara teli üzerine koymak, altlarının daha çıtır olmasını sağlayabilir.",
+      "6. Fırın ısındığında tavukları fırına verin. Tavukları yaklaşık olarak 40-45 dakika boyunca pişirin. Fırın içindeki sıcaklık farklılık gösterebilir, bu nedenle tavuklarınızın iyice piştiğinden emin olmak için bir et termometresi kullanmanızı tavsiye ederiz. İç sıcaklık 75-80 dereceyi (veya tavuğun beyaz etlerinin suyunun berrak akmasını) gösterdiğinde tavuklar hazır demektir.",
+      "7. Fırında pişen tavukları sıcak olarak servis edin. Yanında tercih ettiğiniz garnitürleri veya salataları ekleyerek servis yapın. Afiyet olsun!"
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Ünlü Restoran Kremalı Mantar Çorbası",
+    "specificationTag": "Çorba, Mantar, Fransız Mutfağı",
+    "specificationMaterial": "500 gram taze mantar, 1 büyük soğan (soğanı doğrayın), 2 yemek kaşığı tereyağı, 2 yemek kaşığı un, 1 litre tavuk veya sebze suyu, 1 su bardağı süt, 1 su bardağı krema, tuz, karabiber, taze kekik yaprakları (isteğe bağlı)",
+    "specificationFabrication": [
+      "1. Mantarları temizleyin ve dilimleyin.",
+      "2. Geniş bir tencerede tereyağını eritin. Doğranmış soğanı ekleyin ve yumuşayana kadar kavurun.",
+      "3. Soğanlar kavrulduktan sonra mantarları ekleyin ve mantarlar suyunu bırakıp tekrar çekene kadar pişirin.",
+      "4. Unu ekleyin ve unun rengi hafifçe dönene kadar karıştırarak kavurun.",
+      "5. Tavuk veya sebze suyunu yavaşça ekleyin, karıştırarak topaklanmamasını sağlayın.",
+      "6. Karışım kaynayana kadar ısıyı artırın ve ardından altını kısıp yaklaşık 15-20 dakika boyunca kaynamaya devam edin.",
+      "7. Çorbayı bir blender veya çırpıcı kullanarak pürüzsüz hale getirin.",
+      "8. Çorbayı tencereye geri koyun, sütü, kremayı ekleyin ve karıştırın. Tuz ve karabiber ile tatlandırın.",
+      "9. İsteğe bağlı olarak taze kekik yaprakları ile süsleyerek sıcak servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "İtalyan Usulü Spagetti Carbonara",
+    "specificationTag": "Makarna, İtalyan Mutfağı",
+    "specificationMaterial": "300 gram spagetti makarna, 150 gram pancetta veya guanciale (kuşbaşı doğranmış), 3 büyük yumurta, 1 su bardağı rendelenmiş parmesan peyniri, tuz, taze çekilmiş karabiber, taze doğranmış maydanoz",
+    "specificationFabrication": [
+      "1. Spagetti makarnayı tuzlu suda al dente (dişe gelecek kadar) pişirin, sonra süzün.",
+      "2. Pancetta veya guanciale'yi bir tavada kızartın.",
+      "3. Bir kasede yumurtaları çırpın, parmesan peyniri ekleyin ve karıştırın.",
+      "4. Haşlanmış makarnayı tavada kızarmış pancetta veya guanciale ile karıştırın, ardından yumurta karışımını ekleyin.",
+      "5. Karışımı karıştırarak makarnayı kaplayın, taze karabiber ve taze doğranmış maydanoz ile servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Japon Sushi",
+    "specificationTag": "Sushi, Japon Mutfağı",
+    "specificationMaterial": "Sushi pirinci, sushi sirkesi, taze deniz ürünleri (örneğin, somon, ton balığı, karides), nori yaprakları, soy sosu, wasabi, taze zencefil",
+    "specificationFabrication": [
+      "1. Sushi pirincini iyice yıkayın ve pişirin. Pişirme işlemi sırasında sushi sirkesi ekleyin ve karıştırın.",
+      "2. Nori yaprağını bir bambu sushi matının üzerine yerleştirin.",
+      "3. Sushi pirincini nori yaprağının üzerine yayın ve deniz ürünleri ile dilediğiniz şekilde doldurun.",
+      "4. Rulo yapmak için bambu matı kullanın ve sıkıca sarın.",
+      "5. Sushiyi keserek dilimleyin ve soy sosu, wasabi ve taze zencefil ile servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Hint Tandoori Tavuk",
+    "specificationTag": "Hint Mutfağı, Tavuk",
+    "specificationMaterial": "4 adet tavuk but veya göğüs, 1 su bardağı yoğurt, 2 yemek kaşığı tandoori baharat karışımı, 2 diş sarımsak (ezilmiş), 1 yemek kaşığı limon suyu, tuz",
+    "specificationFabrication": [
+      "1. Tavukları bir bıçakla çizikler atarak marine etmek için hazırlayın.",
+      "2. Geniş bir kasede yoğurt, tandoori baharat karışımı, ezilmiş sarımsak, limon suyu ve tuzu karıştırın.",
+      "3. Marine karışımını tavukların üzerine sürün ve buzdolabında en az 4 saat dinlendirin.",
+      "4. Tavukları ızgarada veya fırında pişirin ve sıcak servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Meksika Guacamole",
+    "specificationTag": "Meksika Mutfağı, Aperatif",
+    "specificationMaterial": "2 olgun avokado, 1 domates (küp doğranmış), 1 soğan (rendelenmiş), 2 diş sarımsak (ezilmiş), 1/4 su bardağı taze limon suyu, tuz, taze doğranmış kişniş (isteğe bağlı), jalapeno biber (isteğe bağlı)",
+    "specificationFabrication": [
+      "1. Avokadoları kesin, çekirdeklerini çıkarın ve püre haline getirin.",
+      "2. Rendelenmiş soğan, ezilmiş sarımsak, taze limon suyu, tuz ve isteğe bağlı olarak kişniş ve jalapeno biberi avokado püresine ekleyin.",
+      "3. Karışımı iyice karıştırın ve domatesleri ekleyin.",
+      "4. Guacamole'yi tortilla cipsi veya taco ile servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Tayland Pad Thai",
+    "specificationTag": "Tayland Mutfağı, Noodle",
+    "specificationMaterial": "200 gram pirinç noodle, 2 yemek kaşığı soya sosu, 2 yemek kaşığı balzamik sirke, 1 yemek kaşığı tamarind ezmesi, 2 yemek kaşığı sıvı yağ, 200 gram karides veya tavuk (isteğe bağlı), 2 yumurta, 1 su bardağı tofu (küp doğranmış), 2 diş sarımsak (ezilmiş), 1 çay bardağı fıstık, taze limon dilimleri",
+    "specificationFabrication": [
+      "1. Pirinç noodle'ları paket talimatına göre haşlayın ve süzün.",
+      "2. Büyük bir tavada sıvı yağda karidesi veya tavuk etini pişirin.",
+      "3. Sarımsak, tofu ve fıstığı ekleyin, ardından haşlanmış noodle'ları ekleyin.",
+      "4. Soya sosu, balzamik sirke, tamarind ezmesi ve yumurtaları ekleyin, karıştırarak pişirin.",
+      "5. Pad Thai'yi taze limon dilimleri ile servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Fransız Klasik Beşamel Sos",
+    "specificationTag": "Fransız Mutfağı, Sos",
+    "specificationMaterial": "2 yemek kaşığı tereyağı, 2 yemek kaşığı un, 2 su bardağı süt, tuz, taze çekilmiş beyaz biber",
+    "specificationFabrication": [
+      "1. Tereyağını bir tencerede eritin.",
+      "2. Unu ekleyin ve kısık ateşte sürekli karıştırarak kavurun, un hafifçe renk değiştirene kadar yaklaşık 2 dakika.",
+      "3. Sütü ekleyin ve sürekli karıştırarak sosu kaynamaya getirin. Kaynadıktan sonra 1-2 dakika daha pişirin.",
+      "4. Sosu tuz ve beyaz biber ile tatlandırın ve yemeklerinizde kullanın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Çin Pekin Ördeği",
+    "specificationTag": "Çin Mutfağı, Ördek",
+    "specificationMaterial": "1 adet bütün ördek, 2 yemek kaşığı hoisin sosu, 2 yemek kaşığı soya sosu, 2 yemek kaşığı bal, 1 yemek kaşığı tuz, 1/2 su bardağı su, taze yeşillikler (örneğin, yeşil soğan, salatalık dilimleri), Pekin ördek ekmekleri",
+    "specificationFabrication": [
+      "1. Ördeği yıkayın ve kurulayın.",
+      "2. Hoisin sosu, soya sosu, bal ve tuzu karıştırarak ördeğin içine sürün. İçini ve dışını iyice kaplayın.",
+      "3. Ördeği buzdolabında bir gece boyunca dinlendirin.",
+      "4. Ördeği 180 dereceye ısıtılmış fırında pişirin, her 30 dakikada bir üzerine su sürerek yaklaşık 2 saat boyunca pişirin.",
+      "5. Ördeği ince dilimler halinde kesin ve Pekin ördek ekmekleri ile servis yapın. Yeşillikler ve hoisin sosu ile süsleyin."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Yunan Souvlaki",
+    "specificationTag": "Yunan Mutfağı, Kebap",
+    "specificationMaterial": "500 gram dana eti (kuşbaşı doğranmış), 2 yemek kaşığı zeytinyağı, 2 diş sarımsak (ezilmiş), 1 yemek kaşığı kekik, 1 yemek kaşığı taze limon suyu, tuz, taze sebzeler (örneğin, biber ve soğan dilimleri)",
+    "specificationFabrication": [
+      "1. Dana etini bir marinasyon karışımı için kullanın: zeytinyağı, sarımsak, kekik, taze limon suyu ve tuz.",
+      "2. Etleri marinasyon içinde en az 1 saat boyunca buzdolabında dinlendirin.",
+      "3. Etleri şişlere geçirin ve sebzelerle sırayla dizin.",
+      "4. Izgarada veya fırında etleri pişirin, arada bir çevirerek mükemmel bir renk alana kadar yaklaşık 15-20 dakika pişirin.",
+      "5. Sıcak souvlakiyi lavaş veya pita ekmeği ile servis yapın. İsteğe bağlı olarak tzatziki sosu ve yeşillikler ekleyin."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "İspanyol Paella",
+    "specificationTag": "İspanyol Mutfağı, Pilav",
+    "specificationMaterial": "1 su bardağı bomba pirinci, 300 gram tavuk göğsü (kuşbaşı doğranmış), 200 gram karides, 1 soğan (doğranmış), 2 diş sarımsak (ezilmiş), 1/2 su bardağı bezelye, 1/2 su bardağı kırmızı biber (doğranmış), 1/2 su bardağı domates püresi, 1 çay bardağı sızma zeytinyağı, 1 çay kaşığı safran, 1 tatlı kaşığı tatlı kırmızı biber, tuz, taze karides ve limon dilimleri ile süsleme",
+    "specificationFabrication": [
+      "1. Paella tenceresinde zeytinyağını ısıtın ve tavuk göğsünü kahverengi olana kadar kızartın.",
+      "2. Soğan, sarımsak, biber, ve domates püresini ekleyin, karıştırın ve 5 dakika kadar pişirin.",
+      "3. Pirinci ekleyin ve pirinçler şeffaflaşıncaya kadar karıştırarak 2-3 dakika kavurun.",
+      "4. Safranı ve tatlı kırmızı biberi ekleyin, ardından sıcak tavuk suyunu ekleyin.",
+      "5. Bezelye ve karidesi üzerine yerleştirin ve tencereyi kısık ateşte kaynamaya bırakın. Yaklaşık 20-25 dakika boyunca suyunu çekene kadar pişirin.",
+      "6. Üzerini taze karides ve limon dilimleri ile süsleyerek sıcak servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Tayvanlı Baozi",
+    "specificationTag": "Tayvan Mutfağı, Ekmek",
+    "specificationMaterial": "500 gram un, 1 su bardağı ılık su, 2 yemek kaşığı şeker, 1 tatlı kaşığı tuz, 2 yemek kaşığı sıvı yağ, 1 paket yaş maya, doldurma için örneğin dana eti veya sebzeler",
+    "specificationFabrication": [
+      "1. Un, şeker, tuz, sıvı yağ ve mayayı karıştırarak hamur yapın ve 1 saat boyunca mayalanmaya bırakın.",
+      "2. Mayalanan hamuru küçük parçalara ayırın ve her birini ince daireler halinde açın.",
+      "3. Doldurma malzemelerini hamurun içine koyun ve hamuru katlayarak kapatın.",
+      "4. Buharlı bir tencerede buharda pişirin, buharlı tencereye yapışmaması için altına marullar veya lahana yaprakları koyabilirsiniz.",
+      "5. Baozi'yi sıcak servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Sultanın İskenderi",
+    "specificationTag": "Osmanlı Mutfağı, Kuzu Kebabı",
+    "specificationMaterial": "500 gram dana kıyma, 500 gram kuzu eti (kuşbaşı doğranmış), 2 yemek kaşığı tereyağı, 1 su bardağı yoğurt, 2 diş sarımsak (ezilmiş), tuz, taze ekmek (pide), tereyağı sosu (eritilmiş tereyağı, domates sosu, yoğurt karışımı)",
+    "specificationFabrication": [
+      "1. Dana kıyma ve kuzu etini ayrı ayrı soteleyin.",
+      "2. Tereyağı, yoğurt, sarımsak ve tuz ile karıştırarak sos hazırlayın.",
+      "3. Taze ekmekleri küçük parçalar halinde kesin ve tereyağı sosu ile ıslatın.",
+      "4. Islattığınız ekmekleri tabağa alın, üzerine sotelediğiniz etleri ve yoğurtlu sarımsak sosunu dökün.",
+      "5. Sultanın İskenderi'ni sıcak servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Hünkar Beğendi",
+    "specificationTag": "Osmanlı Mutfağı, Et Yemeği",
+    "specificationMaterial": "500 gram dana kuşbaşı et, 2 yemek kaşığı tereyağı, 1 su bardağı süt, 2 yemek kaşığı un, tuz, karabiber, muskat rendesi, 2 patlıcan, 3 yemek kaşığı yoğurt, 2 diş sarımsak (ezilmiş)",
+    "specificationFabrication": [
+      "1. Dana etini tereyağında soteleyin ve tuz, karabiber ve muskat rendesi ekleyin.",
+      "2. Patlıcanları közleyin, kabuklarını soyun ve ezin.",
+      "3. Süt, un ve tuz ekleyerek patlıcan püresini hazırlayın.",
+      "4. Yoğurt ve ezilmiş sarımsakla patlıcan püresini karıştırın.",
+      "5. Etli karışımı patlıcan püresinin üzerine dökün ve sıcak servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Sultan Lokumu",
+    "specificationTag": "Osmanlı Mutfağı, Tatlı",
+    "specificationMaterial": "2 su bardağı irmik, 1 su bardağı süt, 1 su bardağı yoğurt, 1 su bardağı toz şeker, 1 su bardağı ceviz içi (iri doğranmış), tereyağı, vanilya, şerbet (su, şeker, limon suyu)",
+    "specificationFabrication": [
+      "1. İrmik, tereyağı, süt ve yoğurdu bir tencerede karıştırarak pişirin.",
+      "2. Pişirdiğiniz karışıma vanilya ve iri doğranmış ceviz içini ekleyin, karıştırın.",
+      "3. Karışımı kare veya dikdörtgen bir tepsiye yayın ve dilimler şeklinde kesin.",
+      "4. Şerbeti hazırlayın ve sıcak lokumların üzerine dökün.",
+      "5. Lokumları şerbeti çekinceye kadar dinlendirin ve servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Sultan Köftesi",
+    "specificationTag": "Osmanlı Mutfağı, Kırmızı Mercimek Köftesi",
+    "specificationMaterial": "1 su bardağı kırmızı mercimek, 1 su bardağı ince bulgur, 1 soğan (rendelenmiş), 2 yemek kaşığı domates salçası, tuz, kimyon, pul biber, nar ekşisi, taze soğan (isteğe bağlı)",
+    "specificationFabrication": [
+      "1. Kırmızı mercimeği yıkayın ve su ekleyerek haşlayın.",
+      "2. Haşlanmış mercimeği bir kaba alın ve rendelenmiş soğan, ince bulgur, domates salçası, tuz, kimyon ve pul biber ekleyin.",
+      "3. Malzemeleri iyice yoğurarak köfte hamurunu hazırlayın.",
+      "4. Nar ekşisi ile servis yapın ve taze soğanla süsleyin (isteğe bağlı)."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Saray Usulü Hünkar Beğendi",
+    "specificationTag": "Osmanlı Mutfağı, Et Yemeği",
+    "specificationMaterial": "500 gram dana kuşbaşı et, 2 yemek kaşığı tereyağı, 1 su bardağı süt, 2 yemek kaşığı un, tuz, karabiber, muskat rendesi, 2 patlıcan, 3 yemek kaşığı yoğurt, 2 diş sarımsak (ezilmiş), 1 yemek kaşığı domates püresi",
+    "specificationFabrication": [
+      "1. Dana etini tereyağında soteleyin ve tuz, karabiber ve muskat rendesi ekleyin.",
+      "2. Patlıcanları közleyin, kabuklarını soyun ve ezin.",
+      "3. Süt, un ve tuz ekleyerek patlıcan püresini hazırlayın.",
+      "4. Yoğurt ve ezilmiş sarımsakla patlıcan püresini karıştırın.",
+      "5. Etli karışımı patlıcan püresinin üzerine dökün ve sıcak servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Sultan Pilavı",
+    "specificationTag": "Osmanlı Mutfağı, Pilav",
+    "specificationMaterial": "2 su bardağı pirinç, 100 gram tereyağı, 1 su bardağı kuş üzümü, 1 su bardağı badem içi (iri doğranmış), 1 yemek kaşığı toz şeker, tuz",
+    "specificationFabrication": [
+      "1. Pirinci yıkayın ve süzün.",
+      "2. Tereyağını eritin ve kuş üzümünü kavurun.",
+      "3. İri doğranmış badem içini ekleyin ve hafifçe kızartın.",
+      "4. Pirinci ekleyin ve tuz, toz şeker ekleyerek karıştırın.",
+      "5. Pirincin üzerini kapatacak kadar sıcak su ekleyin ve pilavı kısık ateşte suyunu çekene kadar pişirin.",
+      "6. Sultan Pilavı'nı sıcak servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Güllaç",
+    "specificationTag": "Osmanlı Mutfağı, Tatlı",
+    "specificationMaterial": "10 adet güllaç yaprağı, 1 su bardağı iri çekilmiş ceviz içi, 1 su bardağı süt, 1 su bardağı toz şeker, 1 su bardağı gül suyu (isteğe bağlı), taze süt (şerbet için)",
+    "specificationFabrication": [
+      "1. Güllaç yapraklarını süt içinde hafifçe ıslatın.",
+      "2. Islattığınız güllaç yapraklarını bir tepsiye sıralayın.",
+      "3. Her bir yaprağın arasına ceviz içi serpin.",
+      "4. Güllaç yapraklarını rulo yaparak tepsiye dizin.",
+      "5. Güllaçları taze süt ile ıslatın ve buzdolabında dinlendirin.",
+      "6. Güllaçları soğuk servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Kazandibi",
+    "specificationTag": "Osmanlı Mutfağı, Tatlı",
+    "specificationMaterial": "2 su bardağı süt, 1 su bardağı toz şeker, 1 su bardağı irmik, 1 yemek kaşığı tereyağı, vanilya, 1 yemek kaşığı kakao, tarçın (üzeri için)",
+    "specificationFabrication": [
+      "1. Süt, toz şeker, irmik, tereyağı, vanilya ve kakao ile tencereye koyun.",
+      "2. Karışımı sürekli karıştırarak kaynamaya getirin ve koyulaşana kadar pişirin.",
+      "3. Kazandibi karışımını fırın kabına dökün ve soğumaya bırakın.",
+      "4. Soğuyan kazandibiye tarçın serpip dilimleyerek servis yapın."
+    ],
+    "specificationImage": ""
+  },
+  {
+    "specificationName": "Sultan Ruloları",
+    "specificationTag": "Osmanlı Mutfağı, Tatlı",
+    "specificationMaterial": "500 gram ceviz içi (iri doğranmış), 1 su bardağı toz şeker, 1 tatlı kaşığı tarçın, 1 su bardağı süt, 1 yemek kaşığı tereyağı, 1 su bardağı irmik",
+    "specificationFabrication": [
+      "1. Ceviz içi, toz şeker ve tarçını bir kapta karıştırın.",
+      "2. Süt, tereyağı ve irmiği bir tencerede karıştırarak pişirin.",
+      "3. Hazırladığınız irmik karışımını tepsiye yayın ve üzerine cevizli karışımı serpin.",
+      "4. Karışımı rulo şeklinde sarın ve buzdolabında dinlendirin.",
+      "5. Dilimleyerek servis yapın."
+    ],
+    "specificationImage": ""
   }
 ]
